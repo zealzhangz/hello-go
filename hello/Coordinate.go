@@ -8,3 +8,7 @@ type Coordinate struct {
 type Vertex struct {
 	X, Y int
 }
+
+type VertexLL struct {
+	Lat, Long float64
+}
